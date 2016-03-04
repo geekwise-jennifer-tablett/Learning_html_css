@@ -6,4 +6,27 @@ body,html{
 }
 body{
     
+    
+}
+nav{
+  margin:0;
+  padding:0;
+  display:block;
+  background-color:#d8743e;        
+    
+}
+.nav_bar{
+    margin:0;
+    padding:0;
+    display:inline-block;
+    text-align:center;
+}
+.
+nav_li{
+    display:inline;
+    float:left;
+    background-color:#6f2c0f;
+}
+#dropdown{
+    background-color:#f4bff2;
 }
