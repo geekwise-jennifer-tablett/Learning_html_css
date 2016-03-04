@@ -8,6 +8,11 @@ body{
     
     
 }
+header{
+    height:10rem;
+    width:100%;
+    background-color:#0a2851;
+}
 nav{
   margin:0;
   padding:0;
@@ -21,11 +26,18 @@ nav{
     display:inline-block;
     text-align:center;
 }
-.
-nav_li{
+
+.nav_li{
     display:inline;
     float:left;
+    line-height:1rem;
+    font:2rem;
+    text-align:center;
     background-color:#6f2c0f;
+}
+lightbrown_a:hover{
+    background-color:#d88e00;
+    color:#4f4d48;
 }
 #dropdown{
     background-color:#f4bff2;
